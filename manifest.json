@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Cozy Spring Meadow",
-    "description": "A warm and comforting spring theme with soft sage, cream, and peach tones.",
+    "description": "A warm and comforting spring theme with soft sage green, minty accents, and cozy peach tones.",
     "theme": {
         "colors": {
             "frame": [
@@ -11,9 +11,9 @@
                 210
             ],
             "toolbar": [
-                255,
+                240,
                 250,
-                240
+                235
             ],
             "tab_text": [
                 70,
