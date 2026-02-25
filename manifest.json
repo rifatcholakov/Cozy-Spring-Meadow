@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Cozy Spring Meadow",
-    "description": "This comforting spring theme will make you smile and lift your mood every time you open your browser, with its soft sage greens, gentle pastel accents, and cozy peach warmth",
+    "description": "Made to lift your mood and bring a smile, this cozy spring theme blends soft sage, gentle pastels, and peach warmth.",
     "theme": {
         "colors": {
             "frame": [
