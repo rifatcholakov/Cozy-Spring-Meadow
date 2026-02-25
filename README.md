@@ -38,7 +38,7 @@ Since this theme is in development, you can install it manually:
     ```
 2.  Open Chrome and navigate to `chrome://extensions/`.
 3.  Enable **"Developer mode"** (toggle in the top right).
-4.  Click **"Load unpacked"** and select the `my-chrome-themee` folder.
+4.  Click **"Load unpacked"** and select the `Cozy-Spring-Meadow` folder.
 
 ---
 
