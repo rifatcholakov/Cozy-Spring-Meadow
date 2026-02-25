@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Chrome/Browser specific
+*.crx
+*.pem
+Cached Theme.pak
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Folders to ignore
+node_modules/
+dist/
+build/
