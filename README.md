@@ -7,6 +7,8 @@ Cozy Spring Meadow is a premium Chrome theme designed to create a refreshing and
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Manifest](https://img.shields.io/badge/manifest-V3-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Cozy_Spring_Meadow-blue.svg?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/cozy-spring-meadow/kjkfnbffdhilbjbdhdfkecpneelkaala)
+
 
 ---
 
@@ -28,9 +30,13 @@ The theme is built around three core pillars:
 
 ---
 
-## 🚀 Installation (Development Mode)
+## 🚀 Installation
 
-Since this theme is in development, you can install it manually:
+### 🌐 Chrome Web Store (Recommended)
+You can install **Cozy Spring Meadow** directly from the **[Chrome Web Store](https://chromewebstore.google.com/detail/cozy-spring-meadow/kjkfnbffdhilbjbdhdfkecpneelkaala?authuser=0&hl=en)**.
+
+### 🛠️ Manual Installation (Development Mode)
+If you'd like to install the theme manually from source:
 
 1.  **Download/Clone the repository:**
     ```bash
